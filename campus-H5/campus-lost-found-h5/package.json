@@ -1,0 +1,13 @@
+{
+  "name": "campus-lost-found-h5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "校园失物招领 H5 版（原微信小程序 → H5 + Vercel Serverless）",
+  "scripts": {
+    "dev": "LOCAL_STORE=1 node dev-server.mjs",
+    "start": "LOCAL_STORE=1 node dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
